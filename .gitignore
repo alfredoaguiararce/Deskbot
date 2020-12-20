@@ -1,0 +1,2 @@
+#Ignorar la scena de Coppelia ya que git no soporta de manera eficiente este tipo de archivos binarios
+*.ttt

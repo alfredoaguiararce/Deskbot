@@ -1,0 +1,4 @@
+#Ignorar la scena de Coppelia ya que git no soporta de manera eficiente este tipo de archivos binarios
+*.ttt
+.ipynb_checkpoints
+__pycache__
